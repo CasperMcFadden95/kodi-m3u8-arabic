@@ -24,7 +24,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxA_zZwALQMmV
 #EXTINF:-1 tvg-id="CAFTV.eg",CAF TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr5K057x3mHroPHsNk9OiwA/live
 #EXTINF:-1 tvg-id="",Damascus Radio
-plugin://plugin.video.sendtokodi/?https://www.ok.ru/live/1009911406198
+plugin://plugin.video.sendtokodi/?https://ok.ru/live/1009911406198
 #EXTINF:-1 tvg-id="ERTU1.eg",ERTU 1
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/2
 #EXTINF:-1 tvg-id="ERTU2.eg",ERTU 2
@@ -50,7 +50,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCI4gZRGRdfnfP
 #EXTINF:-1 tvg-id="MasperoZaman.eg",Maspero Zaman
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/6
 #EXTINF:-1 tvg-id="MTV.lb",MTV
-plugin://plugin.video.sendtokodi/?https://www.media.mtv.com.lb/live/mtv
+plugin://plugin.video.sendtokodi/?https://media.mtv.com.lb/live/mtv
 #EXTINF:-1 tvg-id="NileCinema.eg",Nile Cinema
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/20
 #EXTINF:-1 tvg-id="NileDrama.eg",Nile Drama
@@ -60,9 +60,9 @@ plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/1
 #EXTINF:-1 tvg-id="NileTVInternational.eg",Nile TV International
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/5
 #EXTINF:-1 tvg-id="OneFM.lb",OneFM
-plugin://plugin.video.sendtokodi/?https://www.media.mtv.com.lb/live/onefm
+plugin://plugin.video.sendtokodi/?https://www.mtv.com.lb/live/onefm
 #EXTINF:-1 tvg-id="OneTV.lb",OneTV
-plugin://plugin.video.sendtokodi/?https://www.media.mtv.com.lb/live/one
+plugin://plugin.video.sendtokodi/?https://www.mtv.com.lb/live/one
 #EXTINF:-1 tvg-id="",RedBull TV
 plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/5
 #EXTINF:-1 tvg-id="",Roya Comedy
