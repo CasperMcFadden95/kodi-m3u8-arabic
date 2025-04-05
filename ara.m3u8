@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="",911
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/31
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/31
 #EXTINF:-1 tvg-id="AlMasriyah.eg",Al Masriyah
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/21
 #EXTINF:-1 tvg-id="",Al Masriyah America
@@ -64,29 +64,29 @@ plugin://plugin.video.sendtokodi/?https://www.media.mtv.com.lb/live/onefm
 #EXTINF:-1 tvg-id="OneTV.lb",OneTV
 plugin://plugin.video.sendtokodi/?https://www.media.mtv.com.lb/live/one
 #EXTINF:-1 tvg-id="",RedBull TV
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/5
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/5
 #EXTINF:-1 tvg-id="",Roya Comedy
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/3
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/3
 #EXTINF:-1 tvg-id="",Roya Drama
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/2
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/2
 #EXTINF:-1 tvg-id="",Roya Kids
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/14
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/14
 #EXTINF:-1 tvg-id="",Roya Kids Originals
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/42
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/42
 #EXTINF:-1 tvg-id="",Roya Kids Songs
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/27
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/27
 #EXTINF:-1 tvg-id="",Roya Kids Stories
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/39
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/39
 #EXTINF:-1 tvg-id="",Roya Kitchen
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/4
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/4
 #EXTINF:-1 tvg-id="",Roya Music
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/25
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/25
 #EXTINF:-1 tvg-id="",Roya News
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/21
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/21
 #EXTINF:-1 tvg-id="",Roya Sport
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/48
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/48
 #EXTINF:-1 tvg-id="",Roya TV
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/1
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/1
 #EXTINF:-1 tvg-id="TeleMaroc.ma",Tele Maroc
 plugin://plugin.video.sendtokodi/?https://player.vimeo.com/video/1072729187
 #EXTINF:-1 tvg-id="Elmouritania.mr",Télévision de Mauritanie
@@ -100,62 +100,62 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJW9gatYczI19
 #EXTINF:-1 tvg-id="ZadTV.sa",ZAD TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g/live
 #EXTINF:-1 tvg-id="",أفلام عادل إمام
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/46
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/46
 #EXTINF:-1 tvg-id="",أكشن
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/11
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/11
 #EXTINF:-1 tvg-id="",أنا بحكيلك القصة
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/33
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/33
 #EXTINF:-1 tvg-id="",أيمن زيدان
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/12
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/12
 #EXTINF:-1 tvg-id="",إنتاجات رؤيا
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/40
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/40
 #EXTINF:-1 tvg-id="",الزعيم
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/19
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/19
 #EXTINF:-1 tvg-id="",العالم الكبير
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/28
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/28
 #EXTINF:-1 tvg-id="",الهيبة
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/22
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/22
 #EXTINF:-1 tvg-id="",بيئة شامية
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/18
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/18
 #EXTINF:-1 tvg-id="",جلطة
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/9
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/9
 #EXTINF:-1 tvg-id="",حارة القبة
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/7
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/7
 #EXTINF:-1 tvg-id="",حارة القبة
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/23
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/23
 #EXTINF:-1 tvg-id="",حكي منوّع
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/36
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/36
 #EXTINF:-1 tvg-id="",حلوة يا دنيا
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/30
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/30
 #EXTINF:-1 tvg-id="",حول العالم
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/37
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/37
 #EXTINF:-1 tvg-id="",رؤيا فلسطين
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/38
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/38
 #EXTINF:-1 tvg-id="",زيست
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/29
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/29
 #EXTINF:-1 tvg-id="",ساعة محبّة
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/32
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/32
 #EXTINF:-1 tvg-id="",ست النكهات
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/13
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/13
 #EXTINF:-1 tvg-id="",شيف مان
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/8
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/8
 #EXTINF:-1 tvg-id="",فنـطهي
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/16
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/16
 #EXTINF:-1 tvg-id="",قناة العربي
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/43
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/43
 #EXTINF:-1 tvg-id="",قناة العربي 2
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/44
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/44
 #EXTINF:-1 tvg-id="",كرفان
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/41
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/41
 #EXTINF:-1 tvg-id="",مجتمعي
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/6
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/6
 #EXTINF:-1 tvg-id="",مرايا
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/45
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/45
 #EXTINF:-1 tvg-id="",مسرحيات
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/17
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/17
 #EXTINF:-1 tvg-id="",مغامرات
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/26
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/26
 #EXTINF:-1 tvg-id="",نادين نجيم
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/20
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/20
 #EXTINF:-1 tvg-id="",وطن ع وتر
-plugin://plugin.video.sendtokodi/?https://www.roya.tv/live-stream/10
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/10
