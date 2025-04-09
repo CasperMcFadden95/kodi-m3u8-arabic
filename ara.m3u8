@@ -60,9 +60,9 @@ plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/1
 #EXTINF:-1 tvg-id="NileTVInternational.eg",Nile TV International
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/5
 #EXTINF:-1 tvg-id="OneFM.lb",OneFM
-plugin://plugin.video.sendtokodi/?https://www.mtv.com.lb/live/onefm
+plugin://plugin.video.sendtokodi/?https://media.mtv.com.lb/live/onefm
 #EXTINF:-1 tvg-id="OneTV.lb",OneTV
-plugin://plugin.video.sendtokodi/?https://www.mtv.com.lb/live/one
+plugin://plugin.video.sendtokodi/?https://media.mtv.com.lb/live/one
 #EXTINF:-1 tvg-id="",RedBull TV
 plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/5
 #EXTINF:-1 tvg-id="",Roya Comedy
