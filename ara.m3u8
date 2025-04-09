@@ -87,8 +87,6 @@ plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/21
 plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/48
 #EXTINF:-1 tvg-id="",Roya TV
 plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/1
-#EXTINF:-1 tvg-id="TeleMaroc.ma",Tele Maroc
-plugin://plugin.video.sendtokodi/?https://player.vimeo.com/video/1072729187
 #EXTINF:-1 tvg-id="Elmouritania.mr",Télévision de Mauritanie
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCK3909NQ9meg2KDYKF51Kmg/live
 #EXTINF:-1 tvg-id="ToyorAlJannah.jo",Toyor Al-Jannah
