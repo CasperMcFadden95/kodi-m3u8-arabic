@@ -43,6 +43,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnh5Faqn_r9Hx
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q/live
 #EXTINF:-1 tvg-id="ImamAliTV.iq",Imam Ali TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiE5ev_voWCwuIKfc0k2hOA/live
+#EXTINF:-1 tvg-id="IqraaArabic.sa",Iqraa Arabic
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiC_h4iC9s7Ddr3CT82_EpA/live
 #EXTINF:-1 tvg-id="Karameesh.jo",Karameesh
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ7V5FSAdPkRjPf64pPx9-Q/live
 #EXTINF:-1 tvg-id="KarbalaTV.iq",Karbala TV
