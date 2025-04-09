@@ -51,6 +51,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ7V5FSAdPkRj
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCI4gZRGRdfnfPajdxs8QtPQ/live
 #EXTINF:-1 tvg-id="MasperoZaman.eg",Maspero Zaman
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/6
+#EXTINF:-1 tvg-id="",Monte Carlo Doualiya
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzyAonkXMAIi8bp7_05PV-Q/live
 #EXTINF:-1 tvg-id="MTV.lb",MTV
 plugin://plugin.video.sendtokodi/?https://media.mtv.com.lb/live/mtv
 #EXTINF:-1 tvg-id="NileCinema.eg",Nile Cinema
