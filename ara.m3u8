@@ -13,6 +13,8 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/alrahmatv1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmMcOjsVehVlEOteyrhjI2Q/live
 #EXTINF:-1 tvg-id="AlmagharibiaTV.uk",Almagharibia TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA/live
+#EXTINF:-1 tvg-id="",Alikhbariah TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClm30t2F4FHzzkN9Irtr-8A/live
 #EXTINF:-1 tvg-id="AlraiTV.kw",Alrai
 plugin://plugin.video.sendtokodi/?https://www.alraimedia.com/livestream
 #EXTINF:-1 tvg-id="Alsumaria.iq",Alsumaria
