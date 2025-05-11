@@ -51,6 +51,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiC_h4iC9s7Dd
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ7V5FSAdPkRjPf64pPx9-Q/live
 #EXTINF:-1 tvg-id="KarbalaTV.iq",Karbala TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCI4gZRGRdfnfPajdxs8QtPQ/live
+#EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/7uv5Feu.png",M24 TV (1080p)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxzxd8IK9u5WieWqRS7ULjw/live
 #EXTINF:-1 tvg-id="MasperoZaman.eg",Maspero Zaman
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/6
 #EXTINF:-1 tvg-id="",Monte Carlo Doualiya
