@@ -6,21 +6,21 @@ plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/21
 #EXTINF:-1 tvg-id="",Al Masriyah America
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/4
 #EXTINF:-1 tvg-id="AlNahar.eg",Al Nahar TV
-plugin://plugin.video.youtube/play/?channel_id=UCzKamNFKCvzLOrqfBUAsD6Q
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzKamNFKCvzLOrqfBUAsD6Q/live
 #EXTINF:-1 tvg-id="AlmagharibiaTV.uk",Almagharibia TV
-plugin://plugin.video.youtube/play/?channel_id=UCwKS2U-DwjPZZvM6mSXPKgA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA/live
 #EXTINF:-1 tvg-id="",Alikhbariah TV
-plugin://plugin.video.youtube/play/?channel_id=UClm30t2F4FHzzkN9Irtr-8A
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClm30t2F4FHzzkN9Irtr-8A/live
 #EXTINF:-1 tvg-id="AlraiTV.kw",Alrai
 plugin://plugin.video.sendtokodi/?https://www.alraimedia.com/livestream
 #EXTINF:-1 tvg-id="Alsumaria.iq",Alsumaria
 plugin://plugin.video.sendtokodi/?https://www.alsumaria.tv/live
 #EXTINF:-1 tvg-id="Ayat.sa",Ayaat
-plugin://plugin.video.youtube/play/?channel_id=UC89SSMnCKzXdZsIs_GB6QBg
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC89SSMnCKzXdZsIs_GB6QBg/live
 #EXTINF:-1 tvg-id="BelqeesTV.ye",Belqees TV
-plugin://plugin.video.youtube/play/?channel_id=UCxA_zZwALQMmVMSZyLKC-Nw
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw/live
 #EXTINF:-1 tvg-id="CAFTV.eg",CAF TV
-plugin://plugin.video.youtube/play/?channel_id=UCr5K057x3mHroPHsNk9OiwA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr5K057x3mHroPHsNk9OiwA/live
 #EXTINF:-1 tvg-id="",Damascus Radio
 plugin://plugin.video.sendtokodi/?https://ok.ru/live/1009911406198
 #EXTINF:-1 tvg-id="ERTU1.eg",ERTU 1
@@ -28,31 +28,31 @@ plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/2
 #EXTINF:-1 tvg-id="ERTU2.eg",ERTU 2
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/3
 #EXTINF:-1 tvg-id="ExtraLive.eg",eXtra Live
-plugin://plugin.video.youtube/play/?channel_id=UCXw5vClfMWccw-OocfhQHiA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXw5vClfMWccw-OocfhQHiA/live
 #EXTINF:-1 tvg-id="ExtraNews.eg",eXtra News
-plugin://plugin.video.youtube/play/?channel_id=UC65F33K2cXk9hGDbOQYhTOw
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
 #EXTINF:-1 tvg-id="FadakTV.uk",Fadak TV
-plugin://plugin.video.youtube/play/?channel_id=UC2ZoBzeCXrZcMz4f82eMe-g
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2ZoBzeCXrZcMz4f82eMe-g/live
 #EXTINF:-1 tvg-id="HalabTodayTV.tr",Halab Today TV
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/halabtodaytv
 #EXTINF:-1 tvg-id="HalabTodayTV.tr",Halab Today TV
-plugin://plugin.video.youtube/play/?channel_id=UCnh5Faqn_r9HxeNd_dsvGHQ
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnh5Faqn_r9HxeNd_dsvGHQ/live
 #EXTINF:-1 tvg-id="IFMTV.tn",IFM TV
-plugin://plugin.video.youtube/play/?channel_id=UCvPW0VhnTcxYjWIxCvMlw2Q
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q/live
 #EXTINF:-1 tvg-id="ImamAliTV.iq",Imam Ali TV
-plugin://plugin.video.youtube/play/?channel_id=UCiE5ev_voWCwuIKfc0k2hOA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiE5ev_voWCwuIKfc0k2hOA/live
 #EXTINF:-1 tvg-id="IqraaArabic.sa",Iqraa Arabic
-plugin://plugin.video.youtube/play/?channel_id=UCiC_h4iC9s7Ddr3CT82_EpA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiC_h4iC9s7Ddr3CT82_EpA/live
 #EXTINF:-1 tvg-id="Karameesh.jo",Karameesh
-plugin://plugin.video.youtube/play/?channel_id=UCZ7V5FSAdPkRjPf64pPx9-Q
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ7V5FSAdPkRjPf64pPx9-Q/live
 #EXTINF:-1 tvg-id="KarbalaTV.iq",Karbala TV
-plugin://plugin.video.youtube/play/?channel_id=UCI4gZRGRdfnfPajdxs8QtPQ
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCI4gZRGRdfnfPajdxs8QtPQ/live
 #EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/7uv5Feu.png",M24 TV (1080p)
-plugin://plugin.video.youtube/play/?channel_id=UCxzxd8IK9u5WieWqRS7ULjw
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxzxd8IK9u5WieWqRS7ULjw/live
 #EXTINF:-1 tvg-id="MasperoZaman.eg",Maspero Zaman
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/6
 #EXTINF:-1 tvg-id="",Monte Carlo Doualiya
-plugin://plugin.video.youtube/play/?channel_id=UCzyAonkXMAIi8bp7_05PV-Q
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzyAonkXMAIi8bp7_05PV-Q/live
 #EXTINF:-1 tvg-id="MTV.lb",MTV
 plugin://plugin.video.sendtokodi/?https://media.mtv.com.lb/live/mtv
 #EXTINF:-1 tvg-id="NileCinema.eg",Nile Cinema
@@ -92,15 +92,15 @@ plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/48
 #EXTINF:-1 tvg-id="",Roya TV
 plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/1
 #EXTINF:-1 tvg-id="Elmouritania.mr",Télévision de Mauritanie
-plugin://plugin.video.youtube/play/?channel_id=UCK3909NQ9meg2KDYKF51Kmg
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCK3909NQ9meg2KDYKF51Kmg/live
 #EXTINF:-1 tvg-id="ToyorAlJannah.jo",Toyor Al-Jannah
-plugin://plugin.video.youtube/play/?channel_id=UCZbpK_Lgctew3YNELlG2ecw
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZbpK_Lgctew3YNELlG2ecw/live
 #EXTINF:-1 tvg-id="ElWatania1.tn",Watania 1
-plugin://plugin.video.youtube/play/?channel_id=UCdvWVsmQBROkgcGzVep73oA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdvWVsmQBROkgcGzVep73oA/live
 #EXTINF:-1 tvg-id="ElWatania2.tn",Watania 2
-plugin://plugin.video.youtube/play/?channel_id=UCJW9gatYczI191TunQxMGbA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJW9gatYczI191TunQxMGbA/live
 #EXTINF:-1 tvg-id="ZadTV.sa",ZAD TV
-plugin://plugin.video.youtube/play/?channel_id=UCOll3M-P7oKs5cSrQ9ytt6g
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g/live
 #EXTINF:-1 tvg-id="",أفلام عادل إمام
 plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/46
 #EXTINF:-1 tvg-id="",أكشن
