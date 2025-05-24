@@ -7,10 +7,6 @@ plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/21
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/4
 #EXTINF:-1 tvg-id="AlNahar.eg",Al Nahar TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzKamNFKCvzLOrqfBUAsD6Q/live
-#EXTINF:-1 tvg-id="AlRahma.eg",Al Rahma
-plugin://plugin.video.sendtokodi/?https://www.twitch.tv/alrahmatv1
-#EXTINF:-1 tvg-id="",Alafasy TV
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmMcOjsVehVlEOteyrhjI2Q/live
 #EXTINF:-1 tvg-id="AlmagharibiaTV.uk",Almagharibia TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA/live
 #EXTINF:-1 tvg-id="",Alikhbariah TV
