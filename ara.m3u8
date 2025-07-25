@@ -192,5 +192,5 @@ plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/nidaalislam
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/5b/98/small_da335fc25afb1da620b54d6464dcf43738984d0e.png",Saudia radio
 plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/saudiaradio
 #EXTINF:-1 tvg-id="" tvg-logo="https://maraya.faulio.com/storage/mediagallery/32/f9/small_0941a44cc6202bc19d7a948fb85a6cf941cfe6e8.png",Sharjah Sports 2
-plugin://plugin.video.sendtokodi/?https://maraya.sba.net.ae/en/live/14
+plugin://plugin.video.sendtokodi/?https://maraya.sba.net.ae/live/14
 
