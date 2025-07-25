@@ -159,3 +159,36 @@ plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/26
 plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/20
 #EXTINF:-1 tvg-id="",وطن ع وتر
 plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/10
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/89/52/small_e07b4198a85a2bc1b3c0733a71f61dd010dec85d.png",Saudiatv
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/saudiatv
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png",SBC
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/sbc-channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png",Thikrayat
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/thikrayat-tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png",Alekhbariya
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/alekhbariya
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/small_64167a679b7b2b43aa0e9549a920b50dc01cd531.png",KSA Now
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/ksa-now
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/small_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png",KSA Sports 1
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/ksa-sports1
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/small_470ef56d4e496e82df1d74aca7edeef597b2e541.png",KSA Sports 2
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/ksa-sports2
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/small_f1d461237592b4d46c44a6f300df1d97051f7c55.png",KSA Sports 3
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/ksa-sports3
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/small_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",Quran TV
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/qurantvsa
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png",Sunna TV
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/sunnatvsa
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/37/1a/small_399eddcc4305f34f41c7fab24c3518fab5d55d97.png",Riyadh radio
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/riyadhradio
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bd/f5/small_527bf54a5adb56ac17f572ac2cd0801304db3baf.png",Jeddah radio
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/jeddahradio
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/55/46/small_4ee3bec687bf3b0c2af09baafaa1e5628a118224.png",Khuzama Radio
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/khuzama-radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/small_823bc2fe722ede75410492d57fd6c201208b4224.png",Quran radio
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/quranradio
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/0f/c5/small_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png",Nida alislam
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/nidaalislam
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/5b/98/small_da335fc25afb1da620b54d6464dcf43738984d0e.png",Saudia radio
+plugin://plugin.video.sendtokodi/?https://aloula.sba.sa/live/saudiaradio
+
