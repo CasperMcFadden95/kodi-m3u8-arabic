@@ -53,8 +53,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxzxd8IK9u5Wi
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/6
 #EXTINF:-1 tvg-id="",Monte Carlo Doualiya
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzyAonkXMAIi8bp7_05PV-Q/live
-#EXTINF:-1 tvg-id="MTV.lb",MTV
-plugin://plugin.video.sendtokodi/?https://media.mtv.com.lb/live/mtv
 #EXTINF:-1 tvg-id="NileCinema.eg",Nile Cinema
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/20
 #EXTINF:-1 tvg-id="NileDrama.eg",Nile Drama
@@ -63,10 +61,6 @@ plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/19
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/1
 #EXTINF:-1 tvg-id="NileTVInternational.eg",Nile TV International
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/5
-#EXTINF:-1 tvg-id="OneFM.lb",OneFM
-plugin://plugin.video.sendtokodi/?https://media.mtv.com.lb/live/onefm
-#EXTINF:-1 tvg-id="OneTV.lb",OneTV
-plugin://plugin.video.sendtokodi/?https://media.mtv.com.lb/live/one
 #EXTINF:-1 tvg-id="",RedBull TV
 plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/5
 #EXTINF:-1 tvg-id="",Roya Comedy
