@@ -11,6 +11,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwKS2U-DwjPZZ
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClm30t2F4FHzzkN9Irtr-8A/live
 #EXTINF:-1 tvg-id="AlraiTV.kw",Alrai
 plugin://plugin.video.sendtokodi/?https://www.alraimedia.com/livestream
+#EXTINF:-1 tvg-id="AlRahma.eg",Al Rahma
+plugin://plugin.video.sendtokodi/?https://alrahma.tv/livestream
 #EXTINF:-1 tvg-id="Alsumaria.iq",Alsumaria
 plugin://plugin.video.sendtokodi/?https://www.alsumaria.tv/live
 #EXTINF:-1 tvg-id="Ayat.sa",Ayaat
