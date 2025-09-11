@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlMasriyah.eg",Al Masriyah
+#EXTINF:-1 tvg-id="AlMasriyah.eg",AlMasriyah
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/21
-#EXTINF:-1 tvg-id="",Al Masriyah America
+#EXTINF:-1 tvg-id="",AlMasriyah America
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/4
-#EXTINF:-1 tvg-id="AlNahar.eg",Al Nahar TV
+#EXTINF:-1 tvg-id="AlNahar.eg",AlNahar TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzKamNFKCvzLOrqfBUAsD6Q/live
 #EXTINF:-1 tvg-id="AlmagharibiaTV.uk",Almagharibia TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA/live
@@ -11,7 +11,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwKS2U-DwjPZZ
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClm30t2F4FHzzkN9Irtr-8A/live
 #EXTINF:-1 tvg-id="AlraiTV.kw",Alrai
 plugin://plugin.video.sendtokodi/?https://www.alraimedia.com/livestream
-#EXTINF:-1 tvg-id="AlRahma.eg",Al Rahma
+#EXTINF:-1 tvg-id="AlRahma.eg",AlRahma
 plugin://plugin.video.sendtokodi/?https://alrahma.tv/livestream
 #EXTINF:-1 tvg-id="Alsumaria.iq",Alsumaria
 plugin://plugin.video.sendtokodi/?https://www.alsumaria.tv/live
