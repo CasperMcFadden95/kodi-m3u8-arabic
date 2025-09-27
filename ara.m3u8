@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AlMasriyah.eg",AlMasriyah
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/21
-#EXTINF:-1 tvg-id="AlMashhad.ae",Al Mashhad (1080p)
+#EXTINF:-1 tvg-id="AlMashhad.ae",AlMashhad
 plugin://plugin.video.sendtokodi/?https://players.brightcove.net/6313884884001/kzLyKYu0rN_default/index.html?videoId=6378439181112
 #EXTINF:-1 tvg-id="",AlMasriyah America
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/4
