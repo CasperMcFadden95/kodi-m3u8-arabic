@@ -27,6 +27,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC89SSMnCKzXdZ
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw/live
 #EXTINF:-1 tvg-id="CAFTV.eg",CAF TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr5K057x3mHroPHsNk9OiwA/live
+#EXTINF:-1 tvg-id="",Elsharq TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxx-W7y5qIoFKHp7W-Efhcw/live
 #EXTINF:-1 tvg-id="ERTU1.eg",ERTU 1
 plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/2
 #EXTINF:-1 tvg-id="ERTU2.eg",ERTU 2
