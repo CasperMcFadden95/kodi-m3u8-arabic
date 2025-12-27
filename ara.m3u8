@@ -101,6 +101,4 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdvWVsmQBROkg
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJW9gatYczI191TunQxMGbA/live
 #EXTINF:-1 tvg-id="ZadTV.sa",ZAD TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g/live
-#EXTINF:-1 tvg-id="" tvg-logo="https://maraya.faulio.com/storage/mediagallery/32/f9/small_0941a44cc6202bc19d7a948fb85a6cf941cfe6e8.png",Sharjah Sports 2
-plugin://plugin.video.sendtokodi/?https://maraya.sba.net.ae/live/14
 
