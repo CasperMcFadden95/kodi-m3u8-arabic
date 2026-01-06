@@ -37,10 +37,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXw5vClfMWccw
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
 #EXTINF:-1 tvg-id="FadakTV.uk",Fadak TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2ZoBzeCXrZcMz4f82eMe-g/live
-#EXTINF:-1 tvg-id="HalabTodayTV.tr",Halab Today TV
-plugin://plugin.video.sendtokodi/?https://www.twitch.tv/halabtodaytv
-#EXTINF:-1 tvg-id="HalabTodayTV.tr",Halab Today TV
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnh5Faqn_r9HxeNd_dsvGHQ/live
 #EXTINF:-1 tvg-id="IFMTV.tn",IFM TV
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q/live
 #EXTINF:-1 tvg-id="ImamAliTV.iq",Imam Ali TV
