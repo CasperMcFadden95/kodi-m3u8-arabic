@@ -65,6 +65,8 @@ plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/5
 plugin://plugin.video.sendtokodi/?https://www.mtv.com.lb/OneFM/Live
 #EXTINF:-1 tvg-id="OneTV.lb",OneTV
 plugin://plugin.video.sendtokodi/?https://www.mtv.com.lb/OneTV/Live
+#EXTINF:-1 tvg-id="",Prime TV (1080p)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDKcuB5VBIVwx1RJfKkSjtg/live
 #EXTINF:-1 tvg-id="RoyaComedy.jo",Roya Comedy
 plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/3
 #EXTINF:-1 tvg-id="RoyaDrama.jo",Roya Drama
